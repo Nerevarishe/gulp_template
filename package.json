@@ -1,0 +1,14 @@
+{
+  "name": "gulp_template",
+  "version": "0.1.0",
+  "description": "Template for creating site markup using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nerevarishe",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+# IDE dir's:
+.idea/
+.vscode/
+
+# NPM
+node_modules/
+
+# CSS
+*.css
+*.css.map
