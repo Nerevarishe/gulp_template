@@ -9,6 +9,12 @@
   "author": "nerevarishe",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
-  }
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.1.0",
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {}
 }
